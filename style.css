@@ -1,0 +1,28 @@
+<style>
+body {
+  background-color: lightblue;
+}
+h1{ color: red; }
+h2{ text-align: center;}
+
+
+h3{ background-color: DodgerBlue;}
+table, th, td {
+  border: 2px solid navy;  padding: 10px;  width: 100%; height: 50px;
+}
+
+  p {
+        background-color: #ffffff;
+        border-left: 4px solid #2a7ae2;
+        padding: 10px 15px;
+        margin: 8px 0;
+        border-radius: 6px;}
+img {   height: auto;
+        border-radius: 15px;
+        border: 4px solid blue; }
+
+p1 { background: #ffffff;
+        padding: 5px 30px; 
+         border-radius: 12px;
+}
+</style>
